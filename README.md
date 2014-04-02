@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [britesnow/brite](http://github.com/britesnow/brite). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/britesnow-brite`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # brite.js
 brite.js is a simple but powerful DOM centric MVC (D-MVC) framework for building high-end HTML5 applications.
 The driving concept is to just add the missing MVC pieces to the DOM rather than force fitting Desktop MVC
